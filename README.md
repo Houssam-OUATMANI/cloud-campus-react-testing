@@ -2,7 +2,7 @@
 ## npm install 
 # A faire :
 
-Mettre en place des tests unitaires pour les compossants Count Form Buttons et Navigation
+Mettre en place des tests unitaires pour les composants Count Form Buttons et Navigation
 
 ## Available Scripts
 In the project directory, you can run:

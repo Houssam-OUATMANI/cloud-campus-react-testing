@@ -2,7 +2,18 @@
 ## npm install 
 # A faire :
 
-Mettre en place des tests unitaires pour les composants Count Form Buttons et Navigation
+## Mettre en place des tests unitaires pour les composants:
+-  Count
+-  Form
+-  Buttons
+-  Navigation
+-  Messages
+## Mettre en place des tests unitaires asynchrone (appel API avec et sans mock) sur la page:
+-  Clients
+
+## Mettre en place des tests d'integrations pour les pages:
+- Home
+- Contact
 
 ## Available Scripts
 In the project directory, you can run:
